@@ -1,0 +1,30 @@
+/* Tipografía general */
+.reveal {
+  font-family: "Lato", "Helvetica", sans-serif;
+  color: #2b2b2b;
+  font-size: 32px;
+}
+
+/*Autores*/
+.reveal .quarto-title-author {
+  font-size: 0.8em;
+}
+
+/* Títulos */
+.reveal h1 {
+  color: #1f3b57;
+}
+
+.reveal h2 {
+  color: #2f5d7c;
+}
+
+.reveal h3 {
+  color: #3f6b86;
+}
+
+/* Mantener fondo blanco */
+.reveal .slides section {
+  background-color: white;
+}
+
